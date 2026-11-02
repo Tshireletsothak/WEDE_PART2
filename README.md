@@ -1,4 +1,4 @@
-# WEDE_PART2
+# WEDE_PART3 
 SEO Answers: 
 SEO-Search engine optimization includes improving  a website to increase it's appearance and real in search engine result pages. 
 Purpose in web development: It ensures that a website is physically stable, easily accessed by search engine bots, and available to specified users. 
